@@ -1,0 +1,19 @@
+{
+  "name": "@jace1995/telegram-handler",
+  "version": "0.1.89",
+  "main": "build/index.js",
+  "dependencies": {
+    "@jace1995/handler": "0.1.9",
+    "@jace1995/load-config": "^0.2.2",
+    "@types/cookie": "^0.4.0",
+    "@types/cors": "^2.8.8",
+    "@types/node-fetch": "^2.5.7",
+    "@types/socket.io": "^2.1.11",
+    "@types/socket.io-client": "^1.4.34",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "socket.io": "^3.0.1",
+    "socket.io-client": "^3.0.1",
+    "telegraf": "^3.38.0"
+  }
+}
